@@ -1,5 +1,18 @@
 # Codex App 自动化开发配置文档
 
+<!-- SIUSER-SEO-INTRO:START -->
+
+## 项目介绍 / Project Introduction
+
+**中文介绍**：Codex App 会议报告项目，用网页、PDF 和视觉资产沉淀会议内容、行动项和项目复盘。
+
+**English**: A Codex App meeting report project using web pages, PDFs, and visual assets to document meetings, action items, and project reviews.
+
+**SEO 关键词 / SEO Keywords**: Codex App, meeting report, AI summary, PDF report, 会议纪要
+
+<!-- SIUSER-SEO-INTRO:END -->
+
+
 这是一份基于 Codex App 分享会议整理出来的可转发配置文档与深度复盘报告。
 
 它不是单纯的会议摘要，而是把会议里关于 Codex App、Computer Use、Browser Use、自动化开发、上下文管理、测试验证、UI/UX、产品化和商业化的讨论，整理成一份适合转发给别人阅读的在线文档。
@@ -77,3 +90,17 @@ docs/pdf/codex-app-meeting-report.pdf
 - 想把案例采集、提示词整理、GitHub 部署接成流程的人
 - 想为团队制定 AI 开发权限、测试和验收规范的人
 - 做 AI 产品、个人工具、开源项目商业化的人
+
+<!-- SIUSER-CONTACT:START -->
+
+## 联系我 / Contact
+
+想交流 AI 工具、内容自动化、SEO、私域增长或项目合作，可以扫码加我微信。
+
+For collaboration on AI tools, content automation, SEO, private-domain growth, or product experiments, scan the WeChat QR code below.
+
+<img src="https://raw.githubusercontent.com/siuserxiaowei/siuserxiaowei/main/assets/contact/wechat-qrcode.jpg" width="180" alt="WeChat QR code / 微信二维码" />
+
+**关键词 / Keywords**: Codex App, meeting report, AI summary, PDF report, AI tools, AI automation, GitHub Pages, SEO
+
+<!-- SIUSER-CONTACT:END -->
